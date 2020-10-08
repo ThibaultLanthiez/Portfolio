@@ -1,6 +1,6 @@
-Portfolio de Thibault LANTHIEZ
+# Portfolio de Thibault LANTHIEZ
 
-# Projets personnels
+## Projets personnels
 
 * Projet 1 : [Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 2 : [Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
@@ -8,12 +8,12 @@ Portfolio de Thibault LANTHIEZ
 * Projet 4 : [Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 5 : [Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 
-# Stage
+## Stage
 
 * Mission 1 : [Projet tutoré pour l'Université de Caen(sans code)](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Mission 2 : [Analyse statistique(sans code)](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 
-# Projets académiques
+## Projets académiques
 
 * Projet 1 : [Projet tutoré pour l'Université de Caen](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 2 : [Analyse statistique](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
