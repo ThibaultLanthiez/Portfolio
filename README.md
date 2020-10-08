@@ -2,4 +2,4 @@
 
 # Projets personnels
 
-[Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+Projet 1 : [Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
