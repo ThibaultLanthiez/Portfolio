@@ -1,11 +1,11 @@
 # Portfolio de Thibault LANTHIEZ
 
-<img src="https://simpleicons.org/icons/python.svg" width="30px">
 
 
 ## Projets personnels
 
 * Projet 1 : [Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku) 
+** <i class="fab fa-python"></i>
 * Projet 2 : [Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 3 : [Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 4 : [Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
