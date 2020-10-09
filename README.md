@@ -1,6 +1,6 @@
 # Portfolio de Thibault LANTHIEZ
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img src="https://simpleicons.org/icons/python.svg" width="30px">
 
 
 ## Projets personnels
