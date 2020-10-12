@@ -19,5 +19,13 @@
 * Projet 2 : [Analyse statistique](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 3 : [Série temporelle](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 
+-----
+
+
+## Certifications
+
+* Workera
+* LinkedIn
+
 
 
