@@ -27,5 +27,11 @@
 * Workera
 * LinkedIn
 
+## Lectures
+
+* Hands on ML
+* Statistical introduction
+* ML from scratch
+
 
 
