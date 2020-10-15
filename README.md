@@ -10,12 +10,12 @@
 
 ## Stage
 
-* Mission 1 : [Projet tutoré pour l'Université de Caen(sans code)](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
-* Mission 2 : [Analyse statistique(sans code)](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Mission 1 : [Extraction de données pour un tableau de bord](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Mission 2 : [Prédiction de changement de carte de crédit](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 
 ## Projets académiques
 
-* Projet 1 : [Projet tutoré pour l'Université de Caen](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 1 : [Projet tutoré pour l'Observatoire Unicaen](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 2 : [Analyse statistique](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 3 : [Série temporelle](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 
@@ -24,7 +24,7 @@
 ## Certifications
 
 * Workera
-* LinkedIn
+* LinkedIn : [Python](https://www.linkedin.com/in/thibault-lanthiez-3b300b175/detail/assessments/Python/report/)
 
 -----
 
