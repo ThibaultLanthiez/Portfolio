@@ -24,7 +24,7 @@
 ## Certifications
 
 * Workera
-* LinkedIn : [Python](https://www.linkedin.com/in/thibault-lanthiez-3b300b175/detail/assessments/Python/report/)
+* [LinkedIn - Quiz d'évaluation de compétences](https://www.linkedin.com/in/thibault-lanthiez-3b300b175/) : Python, R, SQL, Excel, Machine Learning
 
 -----
 
