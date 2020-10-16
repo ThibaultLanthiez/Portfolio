@@ -24,7 +24,7 @@
 ## Certifications
 
 * Workera
-* [LinkedIn - Quiz d'évaluation de compétences](https://www.linkedin.com/in/thibault-lanthiez-3b300b175/) : Python, R, SQL, Excel, Machine Learning
+* LinkedIn - Quiz d'évaluation de compétences : [Python, R, SQL, Excel, Machine Learning](https://www.linkedin.com/in/thibault-lanthiez-3b300b175/)
 
 -----
 
@@ -34,5 +34,17 @@
 * [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 * [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 
+-----
 
+## Formations en ligne
 
+* Elements of AI - [Introduction to AI](https://www.elementsofai.fr/) (The University of Helsinki)
+* [Kaggle](https://www.kaggle.com/learn/overview)
+* [365DataScience](https://365datascience.com/courses/)
+* [Coursera](https://www.coursera.org/specializations/advanced-statistics-data-science#courses)
+* [OpenClassrooms](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning)
+* [DeepLizard](https://deeplizard.com/)
+* [Online Data Science Courses](https://online-learning.harvard.edu/subject/data-science) (Harvard University)
+* [Made With ML](https://madewithml.com/topics/)
+* + 100 heures de formations en Data Science et Machine Learning sur Youtube
+* Lecture d'articles de blogs en Data Science
