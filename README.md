@@ -38,7 +38,7 @@
 * [Kaggle](https://www.kaggle.com/learn/overview)
 * [365DataScience](https://365datascience.com/courses/)
 * [Coursera](https://www.coursera.org/specializations/advanced-statistics-data-science#courses)
-* [OpenClassrooms](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning)
+* [Initiez-vous au Machine Learning](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning) (OpenClassrooms)
 * [DeepLizard](https://deeplizard.com/)
 * [Online Data Science Courses](https://online-learning.harvard.edu/subject/data-science) (Harvard University)
 * [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics?utm_source=mitopenlearning-mit-open-learning&utm_medium=affiliate_partner) (MIT)
