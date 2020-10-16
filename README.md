@@ -42,5 +42,5 @@
 * [DeepLizard](https://deeplizard.com/)
 * [Online Data Science Courses](https://online-learning.harvard.edu/subject/data-science) (Harvard University)
 * [Made With ML](https://madewithml.com/topics/)
-* > 100 heures de formations en Data Science et Machine Learning sur Youtube
+* ≈ 100 heures de formations en Data Science et Machine Learning sur Youtube
 * Lecture d'articles de blogs en Data Science
