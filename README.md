@@ -41,6 +41,8 @@
 * [OpenClassrooms](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning)
 * [DeepLizard](https://deeplizard.com/)
 * [Online Data Science Courses](https://online-learning.harvard.edu/subject/data-science) (Harvard University)
+* [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics?utm_source=mitopenlearning-mit-open-learning&utm_medium=affiliate_partner) (MIT)
+* [edX courses](https://www.edx.org/course/subject/data-science)
 * [Made With ML](https://madewithml.com/topics/)
-* ≈ 100 heures de formations en Data Science et Machine Learning sur Youtube
+* ≈100 heures de formations en Data Science et Machine Learning sur Youtube
 * Lecture d'articles de blogs en Data Science
