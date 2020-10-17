@@ -36,7 +36,7 @@
 
 ## Formations en ligne
 
-* Elements of AI - [Introduction to AI](https://www.elementsofai.fr/) (The University of Helsinki)
+* [Introduction to Artificial Intelligence](https://www.elementsofai.fr/) (University of Helsinki)
 * [Kaggle](https://www.kaggle.com/learn/overview)
 * [365DataScience](https://365datascience.com/courses/)
 * [Coursera](https://www.coursera.org/specializations/advanced-statistics-data-science#courses)
