@@ -47,5 +47,6 @@
 * [Online Data Science Courses](https://online.stanford.edu/search-catalog?type=All&topics[1062]=1062&topics[1060]=1060&topics[1065]=1065&topics[1063]=1063&free_or_paid[free]=free) (Stanford)
 * [edX courses](https://www.edx.org/course/subject/data-science)
 * [Made With ML](https://madewithml.com/topics/)
+* [LeetCode Machine Learning](https://leetcode.com/explore/learn/card/machine-learning-101/)
 * ≈100 heures de formations en Data Science et Machine Learning sur Youtube
 * Lecture d'articles de blogs en Data Science
