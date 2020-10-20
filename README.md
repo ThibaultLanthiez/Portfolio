@@ -36,12 +36,8 @@
 
 ## Formations en ligne
 
-* [Introduction to Artificial Intelligence](https://www.elementsofai.fr/) (University of Helsinki)
-* [Kaggle](https://www.kaggle.com/learn/overview)
-* [365DataScience](https://365datascience.com/courses/)
-* [Coursera](https://www.coursera.org/specializations/advanced-statistics-data-science#courses)
 * [Initiez-vous au Machine Learning](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning) (OpenClassrooms)
-* [DeepLizard](https://deeplizard.com/)
+* [Introduction to Artificial Intelligence](https://www.elementsofai.fr/) (University of Helsinki)
 * [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard University)
 * [Principles, Statistical and Computational Tools for Reproducible Data Science](https://online-learning.harvard.edu/course/principles-statistical-and-computational-tools-reproducible-data-science?delta=1) (Harvard University)
 * [Data Science: Inference and Modeling](https://online-learning.harvard.edu/course/data-science-inference-and-modeling?delta=1) (Harvard University)
@@ -50,7 +46,10 @@
 * [The Analytics Edge](https://www.edx.org/course/the-analytics-edge) (MIT)
 * [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics) (MIT)
 * [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) (Stanford)
-* [edX courses](https://www.edx.org/course/subject/data-science)
+* [Kaggle](https://www.kaggle.com/learn/overview)
+* [365DataScience](https://365datascience.com/courses/)
+* [Coursera](https://www.coursera.org/specializations/advanced-statistics-data-science#courses)
+* [DeepLizard](https://deeplizard.com/)
 * [Made With ML](https://madewithml.com/topics/)
 * [LeetCode Machine Learning](https://leetcode.com/explore/learn/card/machine-learning-101/)
 * ≈100 heures de formations en Data Science et Machine Learning sur Youtube
