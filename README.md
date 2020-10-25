@@ -46,7 +46,7 @@
 * [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics) (MIT)
 * [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) (Stanford)
 * [Kaggle](https://www.kaggle.com/learn/overview)
-* [365DataScience](https://365datascience.com/courses/)
+* [Time Series Analysis in Python](https://365datascience.teachable.com/courses/enrolled/670446) (365DataScience)
 * [Coursera](https://www.coursera.org/specializations/advanced-statistics-data-science#courses)
 * [DeepLizard](https://deeplizard.com/)
 * [Made With ML](https://madewithml.com/topics/)
