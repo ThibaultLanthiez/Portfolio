@@ -50,8 +50,11 @@
 * [Keras - Python Deep Learning Neural Network API](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) (DeepLizard)
 * [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) (DeepLizard)
 * [Reinforcement Learning - Goal Oriented Intelligence](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv) (DeepLizard)
-* [Kaggle](https://www.kaggle.com/learn/overview)
-* [Coursera](https://www.coursera.org/specializations/advanced-statistics-data-science#courses)
+* [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis) (Kaggle)
+* [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) (Kaggle)
+* [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) (Kaggle)
+* [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing) (Kaggle)
+* [Computer Vision](https://www.kaggle.com/learn/computer-vision) (Kaggle)
 * [Made With ML](https://madewithml.com/topics/)
 * [LeetCode Machine Learning](https://leetcode.com/explore/learn/card/machine-learning-101/)
 * ≈100 heures de formations en Data Science et Machine Learning sur Youtube
