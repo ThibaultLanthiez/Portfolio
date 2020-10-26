@@ -34,8 +34,8 @@
 
 ## Formations en ligne
 
-* [Initiez-vous au Machine Learning](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning) (OpenClassrooms)
 * [Introduction to Artificial Intelligence](https://www.elementsofai.fr/) (University of Helsinki)
+* [Initiez-vous au Machine Learning](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning) (OpenClassrooms)
 * [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 * [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard University)
 * [Principles, Statistical and Computational Tools for Reproducible Data Science](https://online-learning.harvard.edu/course/principles-statistical-and-computational-tools-reproducible-data-science?delta=1) (Harvard University)
