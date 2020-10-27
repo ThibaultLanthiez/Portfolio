@@ -23,7 +23,7 @@
 
 ## Certifications
 
-* Workera - Quiz d'évaluation de compétences en Data Science : [Data Analyst](https://app.workera.ai/public/candidate/certificate?code=JKZ4QZ45), [Data Scientist](https://app.workera.ai/public/candidate/certificate?code=EUJW0VJX)
+* Workera - Quiz d'évaluation de compétences en Data Science : [Data Analyst](https://app.workera.ai/public/candidate/certificate?code=XOFK4ULP), [Data Scientist](https://app.workera.ai/public/candidate/certificate?code=B6L1EUNU)
 * LinkedIn - Quiz d'évaluation de compétences de langages informatiques : [Python, R, SQL, Excel, Machine Learning](https://www.linkedin.com/in/thibault-lanthiez-3b300b175/)
 
 ## Livres
