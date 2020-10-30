@@ -41,7 +41,7 @@
 * [Keras - Python Deep Learning Neural Network API](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) (DeepLizard)
 * ≈100 heures de formations en Data Science et Machine Learning sur Youtube
 * Lecture d'articles de blogs en Data Science
-* -----
+-----
 * [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard University)
 * [Principles, Statistical and Computational Tools for Reproducible Data Science](https://online-learning.harvard.edu/course/principles-statistical-and-computational-tools-reproducible-data-science?delta=1) (Harvard University)
 * [Data Science: Inference and Modeling](https://online-learning.harvard.edu/course/data-science-inference-and-modeling?delta=1) (Harvard University)
