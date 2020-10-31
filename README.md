@@ -53,7 +53,8 @@
 * :heavy_check_mark: ≈100 heures de formations en Data Science et Machine Learning sur Youtube
 * :heavy_check_mark: Lecture d'articles de blogs en Data Science
 -----
-* :x: [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard University)
+* [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard University)
+-----
 * :x: [Principles, Statistical and Computational Tools for Reproducible Data Science](https://online-learning.harvard.edu/course/principles-statistical-and-computational-tools-reproducible-data-science?delta=1) (Harvard University)
 * :x: [Data Science: Inference and Modeling](https://online-learning.harvard.edu/course/data-science-inference-and-modeling?delta=1) (Harvard University)
 * :x: [Data Science: R Basics](https://online-learning.harvard.edu/course/data-science-r-basics?delta=0) (Harvard University)
