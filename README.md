@@ -2,7 +2,7 @@
 
 ## Projets personnels
 
-* Projet 1 : [Prédiction de l'issue de matchs foot](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 1 : [Prédiction de l'issue de matchs foot](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot)
 * Projet 2 : [Régression sur le prix de vente de biens immobiliers](https://github.com/ThibaultLanthiez/Regression-prix-vente-biens-immobiliers)
 * Projet 3 : [Clustering de genres de musiques](https://github.com/ThibaultLanthiez/Clustering-genres-musiques)
 * Projet 4 : [Prédire le nombre de décès quotidiens dus au Covid-19](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
