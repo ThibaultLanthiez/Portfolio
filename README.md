@@ -21,9 +21,14 @@
 
 ## Projets académiques
 
-* Projet 1 : [Projet tutoré pour l'Observatoire Unicaen](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
-* Projet 2 : [Analyse statistique](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
-* Projet 3 : [Série temporelle](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 1 : [Projet tutoré pour l'Université de Caen](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 2 : [Analyse statistique sur une maladie](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 3 : [Évolution du nombre de passagers d'Air France](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 4 : [Création d'un questionnaire web lié à une base de données SQ](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 5 : [Sondage auprès de lycéens et analyses des réponses](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 6 : [Challenge Dataviz Enedis](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 7 : [Analyse de données Game of Thrones](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 8 : [Création d'un site de révision](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 
 -----
 
