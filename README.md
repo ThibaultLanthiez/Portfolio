@@ -12,8 +12,7 @@
 * Projet 8 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire)
 * Projet 9 : [Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 10 : [Classification d'IRM de cerveau](https://github.com/ThibaultLanthiez/Classification-IRM-cerveau)
-* Projet 11 : [Détection port du masque](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
-
+* Projet 11 : [Détection port du masque](https://github.com/ThibaultLanthiez/Detection-port-masque)
 
 ## Stage
 
