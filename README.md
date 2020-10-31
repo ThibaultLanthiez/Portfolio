@@ -9,7 +9,7 @@
 * Projet 5 : [Web Scraping](https://github.com/ThibaultLanthiez/Web-scaping)
 * Projet 6 : [Estimation de l'âge d'après une photo](https://github.com/ThibaultLanthiez/Estimation-age-photo)
 * Projet 7 : [Analyse de sentiment exprimé par un tweet](https://github.com/ThibaultLanthiez/Analyse-sentiment-tweet)
-* Projet 8 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 8 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire)
 * Projet 9 : [Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 10 : [Classification d'IRM de cerveau](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 11 : [Détection port du masque](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
