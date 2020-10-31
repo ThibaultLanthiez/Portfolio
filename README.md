@@ -21,7 +21,7 @@
 
 ## Projets académiques
 
-* Projet 1 : [Projet tutoré pour l'Université de Caen](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 1 : [Projet tutoré pour l'Université de Caen](https://github.com/ThibaultLanthiez/Projet-Universite-Caen)
 * Projet 2 : [Analyse statistique sur une maladie](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 3 : [Évolution du nombre de passagers d'Air France](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 4 : [Création d'un questionnaire web lié à une base de données SQ](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
