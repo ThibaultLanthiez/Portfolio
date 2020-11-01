@@ -5,14 +5,15 @@
 * Projet 1 : [Prédiction de l'issue de matchs foot](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot)
 * Projet 2 : [Régression sur le prix de vente de biens immobiliers](https://github.com/ThibaultLanthiez/Regression-prix-vente-biens-immobiliers)
 * Projet 3 : [Clustering de genres de musiques](https://github.com/ThibaultLanthiez/Clustering-genres-musiques)
-* Projet 4 : [Prédire le nombre de décès quotidiens dus au Covid-19](https://github.com/ThibaultLanthiez/Prediction-nombre-deces-quotidiens-Covid-19)
-* Projet 5 : [Web Scraping](https://github.com/ThibaultLanthiez/Web-scaping)
-* Projet 6 : [Estimation de l'âge d'après une photo](https://github.com/ThibaultLanthiez/Estimation-age-photo)
-* Projet 7 : [Analyse de sentiment exprimé par un tweet](https://github.com/ThibaultLanthiez/Analyse-sentiment-tweet)
-* Projet 8 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire)
-* Projet 9 : [Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
-* Projet 10 : [Classification d'IRM de cerveau](https://github.com/ThibaultLanthiez/Classification-IRM-cerveau)
-* Projet 11 : [Détection port du masque](https://github.com/ThibaultLanthiez/Detection-port-masque)
+* Projet 4 : [Classification chiffres MNIST](https://github.com/ThibaultLanthiez/Classification-chiffres-MNIST)
+* Projet 5 : [Prédire le nombre de décès quotidiens dus au Covid-19](https://github.com/ThibaultLanthiez/Prediction-nombre-deces-quotidiens-Covid-19)
+* Projet 6 : [Web Scraping](https://github.com/ThibaultLanthiez/Web-scaping)
+* Projet 7 : [Estimation de l'âge d'après une photo](https://github.com/ThibaultLanthiez/Estimation-age-photo)
+* Projet 8 : [Analyse de sentiment exprimé par un tweet](https://github.com/ThibaultLanthiez/Analyse-sentiment-tweet)
+* Projet 9 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire)
+* Projet 10 : [Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 11 : [Classification d'IRM de cerveau](https://github.com/ThibaultLanthiez/Classification-IRM-cerveau)
+* Projet 12 : [Détection port du masque](https://github.com/ThibaultLanthiez/Detection-port-masque)
 
 ## Stage :computer:
 
