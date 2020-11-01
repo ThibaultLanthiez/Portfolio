@@ -14,6 +14,7 @@
 * Projet 10 : [Résolveur de sudoku](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 11 : [Classification d'IRM de cerveau](https://github.com/ThibaultLanthiez/Classification-IRM-cerveau)
 * Projet 12 : [Détection port du masque](https://github.com/ThibaultLanthiez/Detection-port-masque)
+* Projet 13 : [Classification d'espèces de primates](https://github.com/ThibaultLanthiez/Classification-especes-primates)
 
 ## Stage :computer:
 
