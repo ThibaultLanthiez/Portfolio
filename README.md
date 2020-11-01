@@ -1,6 +1,6 @@
 # Portfolio de Thibault LANTHIEZ
 
-## Projets personnels
+## Projets personnels :mag:
 
 * Projet 1 : [Prédiction de l'issue de matchs foot](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot)
 * Projet 2 : [Régression sur le prix de vente de biens immobiliers](https://github.com/ThibaultLanthiez/Regression-prix-vente-biens-immobiliers)
@@ -14,12 +14,12 @@
 * Projet 10 : [Classification d'IRM de cerveau](https://github.com/ThibaultLanthiez/Classification-IRM-cerveau)
 * Projet 11 : [Détection port du masque](https://github.com/ThibaultLanthiez/Detection-port-masque)
 
-## Stage
+## Stage :computer:
 
 * Mission 1 : [Extraction de données pour un tableau de bord](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Mission 2 : [Prédiction de changement de carte de crédit](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 
-## Projets académiques
+## Projets académiques :school_satchel:
 
 * Projet 1 : [Projet tutoré pour l'Université de Caen](https://github.com/ThibaultLanthiez/Projet-Universite-Caen)
 * Projet 2 : [Analyse statistique sur une maladie](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
