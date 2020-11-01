@@ -16,14 +16,14 @@
 * Projet 12 : [Détection du port du masque](https://github.com/ThibaultLanthiez/Detection-port-masque)
 * Projet 13 : [Classification d'espèces de primates](https://github.com/ThibaultLanthiez/Classification-especes-primates)
 
-## Stage :computer:
+## Stage - Crédit Agricole (service CRM) :computer:
 
 * Mission 1 : [Extraction de données pour un tableau de bord](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Mission 2 : [Prédiction de changement de carte de crédit](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 
 ## Projets académiques :school_satchel:
 
-1. ENSIMAG
+1. **ENSIMAG**
 * Projet 1 : [Intelligence artificielle pour des robots pompiers en programmation orienté objet](https://github.com/ThibaultLanthiez/Projet-Universite-Caen)
 * Projet 2 : [Projet base de données](https://github.com/ThibaultLanthiez/Projet-Universite-Caen)
 * Projet 3 : [Projet Génie Logiciel](https://github.com/ThibaultLanthiez/Projet-Universite-Caen)
@@ -31,7 +31,7 @@
 * Projet 5 : [TP Statistiques](https://github.com/ThibaultLanthiez/Projet-Universite-Caen)
 * Projet 6 : [Projet algo](https://github.com/ThibaultLanthiez/Projet-Universite-Caen)
 
-2. DUT STID
+2. **DUT STID**
 * Projet 1 : [Projet tutoré pour l'Université de Caen](https://github.com/ThibaultLanthiez/Projet-Universite-Caen)
 * Projet 2 : [Analyse statistique sur une maladie](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 3 : [Série temporelle sur l'évolution du nombre de passagers d'Air France](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
