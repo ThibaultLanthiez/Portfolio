@@ -39,7 +39,7 @@
 * Projet 5 : [Sondage auprès de lycéens et analyses des réponses](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 6 : [Challenge Dataviz Enedis](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 7 : [Analyse de données Game of Thrones](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
-* Projet 8 : [Création d'un site de révision](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 8 : [Création d'un site de révision](https://github.com/ThibaultLanthiez/Site-revision)
 
 -----
 
