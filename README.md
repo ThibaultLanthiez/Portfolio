@@ -57,7 +57,7 @@
 
 ## Formations en ligne :rocket:
 
-* :heavy_check_mark: [Introduction to Artificial Intelligence](https://www.elementsofai.fr/) (University of Helsinki)
+* :heavy_check_mark: [Introduction to Artificial Intelligence](https://www.elementsofai.fr/) (Université d'Helsinki)
 * :heavy_check_mark: [Initiez-vous au Machine Learning](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning) (OpenClassrooms)
 * :heavy_check_mark: [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 * :heavy_check_mark: [Keras - Python Deep Learning Neural Network API](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) (DeepLizard)
