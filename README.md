@@ -62,7 +62,8 @@
 * :heavy_check_mark: [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 * :heavy_check_mark: [Keras - Python Deep Learning Neural Network API](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) (DeepLizard)
 * :heavy_check_mark: [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) (Kaggle)
-* :heavy_check_mark: ≈100 heures de formations en Data Science et Machine Learning sur Youtube
+* :heavy_check_mark: ≈100 heures de formations en Data Science et Machine Learning sur Youtube : [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/featured), [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ/featured), [Ken Jee](https://www.youtube.com/c/KenJee1/featured), [La statistique expliquée à mon chat](https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA/featured), [Machine Learnia](https://www.youtube.com/c/MachineLearnia/featured), [Python Programmer](https://www.youtube.com/c/FlickThrough/featured), [Thibault Neveu](https://www.youtube.com/c/ThibaultNeveu/featured), [Joma Tech](https://www.youtube.com/c/JomaOppa/featured) ...
+
 * :heavy_check_mark: Lecture d'articles de blogs en Data Science
 -----
 * [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard University)
