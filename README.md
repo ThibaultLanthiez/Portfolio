@@ -18,7 +18,7 @@
 
 ## Stage - Crédit Agricole (service CRM) :computer:
 
-* Mission 1 : [Extraction de données pour un tableau de bord](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Mission 1 : [Extraction de données pour un tableau de bord](https://github.com/ThibaultLanthiez/Extraction-donnees-tableau-bord)
 * Mission 2 : [Prédiction de changement de carte de crédit](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 
 ## Projets académiques :school_satchel:
