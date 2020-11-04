@@ -61,7 +61,7 @@
 * :heavy_check_mark: [Initiez-vous au Machine Learning](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning) (OpenClassrooms)
 * :heavy_check_mark: [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 * :heavy_check_mark: [Keras - Python Deep Learning Neural Network API](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) (DeepLizard)
-* :heavy_check_mark: [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) (Kaggle)
+* :heavy_check_mark: [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability), [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) (Kaggle)
 * :heavy_check_mark: ≈100 heures de vidéos Youtube en Data Science : [Machine Learnia](https://www.youtube.com/c/MachineLearnia/featured), [Thibault Neveu](https://www.youtube.com/c/ThibaultNeveu/featured), [Python Programmer](https://www.youtube.com/c/FlickThrough/featured), [Joma Tech](https://www.youtube.com/c/JomaOppa/featured), [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ/featured), [Ken Jee](https://www.youtube.com/c/KenJee1/featured), [La statistique expliquée à mon chat](https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA/featured), [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/featured) ...
 * :heavy_check_mark: Lecture d'articles de blogs en Data Science
 -----
@@ -80,7 +80,6 @@
 * :x: [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) (DeepLizard)
 * :x: [Reinforcement Learning - Goal Oriented Intelligence](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv) (DeepLizard)
 * :x: [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis) (Kaggle)
-* :x: [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) (Kaggle)
 * :x: [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing) (Kaggle)
 * :x: [Computer Vision](https://www.kaggle.com/learn/computer-vision) (Kaggle)
 * :x: [Made With ML](https://madewithml.com/topics/)
