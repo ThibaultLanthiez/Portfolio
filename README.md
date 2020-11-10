@@ -81,5 +81,5 @@
 * :x: [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis) (Kaggle)
 * :x: [Computer Vision](https://www.kaggle.com/learn/computer-vision) (Kaggle)
 * :x: [Made With ML](https://madewithml.com/topics/)
-* :x: [LeetCode Machine Learning](https://leetcode.com/explore/learn/card/machine-learning-101/)
+* :x: [LeetCode Database Problems](https://leetcode.com/problemset/database/)
 * :x: [Cours d'initiation au Machine Learning (avec les API TensorFlow)](https://developers.google.com/machine-learning/crash-course) (Google)
