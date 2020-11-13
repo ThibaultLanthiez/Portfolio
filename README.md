@@ -60,6 +60,7 @@
 * :heavy_check_mark: [Introduction to Artificial Intelligence](https://www.elementsofai.fr/) (Université d'Helsinki)
 * :heavy_check_mark: [Initiez-vous au Machine Learning](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning) (OpenClassrooms)
 * :heavy_check_mark: [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+* :heavy_check_mark: [The Analytics Edge](https://www.edx.org/course/the-analytics-edge) (MIT)
 * :heavy_check_mark: [Keras - Python Deep Learning Neural Network API](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) (DeepLizard)
 * :heavy_check_mark: [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability), [Feature Engineering](https://www.kaggle.com/learn/feature-engineering), [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing) (Kaggle)
 * :heavy_check_mark: [Time Series Analysis in Python](https://365datascience.teachable.com/courses/enrolled/670446) (365DataScience)
@@ -67,7 +68,6 @@
 * :heavy_check_mark: Lecture d'articles de blogs en Data Science
 -----
 * [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard University)
-* [The Analytics Edge](https://www.edx.org/course/the-analytics-edge) (MIT)
 * [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) (DeepLizard)
 
 -----
