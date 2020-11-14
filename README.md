@@ -54,6 +54,7 @@
 * :heavy_check_mark: [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 -----
 * :x: [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+* :x: [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
 
 ## Formations en ligne :rocket:
 
