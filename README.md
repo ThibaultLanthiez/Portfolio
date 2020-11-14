@@ -79,6 +79,7 @@
 * :x: [Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) (Stanford)
 * :x: [Machine Learning & Deep Learning Fundamentals](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) (DeepLizard)
 * :x: [Reinforcement Learning - Goal Oriented Intelligence](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv) (DeepLizard)
+* :x: [Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) (Stanford)
 * :x: [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis) (Kaggle)
 * :x: [Computer Vision](https://www.kaggle.com/learn/computer-vision) (Kaggle)
 * :x: [Made With ML](https://madewithml.com/topics/)
