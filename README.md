@@ -82,6 +82,7 @@
 * :x: [Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) (Stanford)
 * :x: [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis) (Kaggle)
 * :x: [Computer Vision](https://www.kaggle.com/learn/computer-vision) (Kaggle)
+* :x: [Putting ML in Production](https://madewithml.com/courses/putting-ml-in-production/) (Made With ML)
 * :x: [Made With ML](https://madewithml.com/topics/)
 * :x: [LeetCode Database Problems](https://leetcode.com/problemset/database/)
 * :x: [Cours d'initiation au Machine Learning (avec les API TensorFlow)](https://developers.google.com/machine-learning/crash-course) (Google)
