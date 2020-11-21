@@ -71,13 +71,14 @@
 -----
 
 * [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard)
+* [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) (Stanford)
+
 
 -----
+* :x: [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics) (MIT)
 * :x: [Principles, Statistical and Computational Tools for Reproducible Data Science](https://online-learning.harvard.edu/course/principles-statistical-and-computational-tools-reproducible-data-science?delta=1) (Harvard)
 * :x: [Data Science: Inference and Modeling](https://online-learning.harvard.edu/course/data-science-inference-and-modeling?delta=1) (Harvard)
 * :x: [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) (MIT)
-* :x: [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics) (MIT)
-* :x: [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) (Stanford)
 * :x: [Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) (Stanford)
 * :x: [Machine Learning & Deep Learning Fundamentals](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) (DeepLizard)
 * :x: [Reinforcement Learning - Goal Oriented Intelligence](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv) (DeepLizard)
