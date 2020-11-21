@@ -77,6 +77,7 @@
 -----
 * :x: [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics) (MIT)
 * :x: [Principles, Statistical and Computational Tools for Reproducible Data Science](https://online-learning.harvard.edu/course/principles-statistical-and-computational-tools-reproducible-data-science?delta=1) (Harvard)
+* :x: [Réalisez des calculs distribués sur des données massives](https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives) (OpenClassrooms)
 * :x: [Data Science: Inference and Modeling](https://online-learning.harvard.edu/course/data-science-inference-and-modeling?delta=1) (Harvard)
 * :x: [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) (MIT)
 * :x: [Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) (Stanford)
