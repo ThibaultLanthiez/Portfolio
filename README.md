@@ -92,4 +92,3 @@
 * :x: [Putting ML in Production](https://madewithml.com/courses/putting-ml-in-production/) (Made With ML)
 * :x: [Made With ML](https://madewithml.com/topics/)
 * :x: [LeetCode Database Problems](https://leetcode.com/problemset/database/)
-* :x: [Cours d'initiation au Machine Learning (avec les API TensorFlow)](https://developers.google.com/machine-learning/crash-course) (Google)
