@@ -71,7 +71,7 @@
 
 * [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard)
 * [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) (Stanford)
-
+* [Maîtrisez les bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql) (OpenClassrooms)
 
 -----
 * :x: [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics) (MIT)
@@ -80,7 +80,6 @@
 * :x: [Concevez des architectures Big Data](https://openclassrooms.com/fr/courses/4467491-concevez-des-architectures-big-data) (OpenClassrooms)
 * :x: [Créez votre Data Lake](https://openclassrooms.com/fr/courses/4467481-creez-votre-data-lake) (OpenClassrooms)
 * :x: [Gérez des flux de données temps réel](https://openclassrooms.com/fr/courses/4451251-gerez-des-flux-de-donnees-temps-reel) (OpenClassrooms)
-* :x: [Maîtrisez les bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql) (OpenClassrooms)
 * :x: [Appliquez l’apprentissage statistique aux objets connectés](https://openclassrooms.com/fr/courses/5264666-appliquez-l-apprentissage-statistique-aux-objets-connectes) (OpenClassrooms)
 * :x: [Machine Learning Flashcards](https://www.brainscape.com/subjects/technology-engineering/computer-science/machine-learning/) (Brainscape)
 * :x: [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)  (Khan Academy)
