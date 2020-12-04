@@ -55,6 +55,7 @@
 -----
 * :x: [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 * :x: [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
+* :x: [The Hundred-Page Machine Learning Book](https://www.amazon.fr/Hundred-Page-Machine-Learning-Book-English-ebook/dp/B07MGCNKXB/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WO6GK9C6JUJ0&dchild=1&keywords=100+pages+machine+learning&qid=1607118238&quartzVehicle=95-1229&replacementKeywords=pages+machine+learning&sprefix=100+pages+%2Caps%2C350&sr=8-1)
 
 ## Formations en ligne :rocket:
 
