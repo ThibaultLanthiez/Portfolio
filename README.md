@@ -82,6 +82,7 @@
 * :x: [Créez votre Data Lake](https://openclassrooms.com/fr/courses/4467481-creez-votre-data-lake) (OpenClassrooms)
 * :x: [Gérez des flux de données temps réel](https://openclassrooms.com/fr/courses/4451251-gerez-des-flux-de-donnees-temps-reel) (OpenClassrooms)
 * :x: [Appliquez l’apprentissage statistique aux objets connectés](https://openclassrooms.com/fr/courses/5264666-appliquez-l-apprentissage-statistique-aux-objets-connectes) (OpenClassrooms)
+* :x: [Utilisez Git et GitHub pour vos projets de développement](https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement) (OpenClassrooms)
 * :x: [Machine Learning Flashcards](https://www.brainscape.com/subjects/technology-engineering/computer-science/machine-learning/) (Brainscape)
 * :x: [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)  (Khan Academy)
 * :x: [Data Science: Inference and Modeling](https://online-learning.harvard.edu/course/data-science-inference-and-modeling?delta=1) (Harvard)
