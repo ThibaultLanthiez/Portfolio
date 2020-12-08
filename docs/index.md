@@ -55,6 +55,7 @@
 -----
 * :x: [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 * :x: [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
+* :x: [The Hundred-Page Machine Learning Book](https://www.amazon.fr/Hundred-Page-Machine-Learning-Book-English-ebook/dp/B07MGCNKXB/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WO6GK9C6JUJ0&dchild=1&keywords=100+pages+machine+learning&qid=1607118238&quartzVehicle=95-1229&replacementKeywords=pages+machine+learning&sprefix=100+pages+%2Caps%2C350&sr=8-1)
 
 ## Formations en ligne :rocket:
 
@@ -66,13 +67,12 @@
 * :heavy_check_mark: [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) (DeepLizard)
 * :heavy_check_mark: [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability), [Feature Engineering](https://www.kaggle.com/learn/feature-engineering), [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing) (Kaggle)
 * :heavy_check_mark: [Time Series Analysis in Python](https://365datascience.teachable.com/courses/enrolled/670446) (365DataScience)
-* :heavy_check_mark: ≈100 heures de vidéos Youtube en Data Science : [Machine Learnia](https://www.youtube.com/c/MachineLearnia/featured), [Thibault Neveu](https://www.youtube.com/c/ThibaultNeveu/featured), [Python Programmer](https://www.youtube.com/c/FlickThrough/featured), [Joma Tech](https://www.youtube.com/c/JomaOppa/featured), [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ/featured), [Ken Jee](https://www.youtube.com/c/KenJee1/featured), [La statistique expliquée à mon chat](https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA/featured), [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/featured) ...
-* :heavy_check_mark: Lecture d'articles de blogs en Data Science
+* :heavy_check_mark: [Maîtrisez les bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql) (OpenClassrooms)
+* :heavy_check_mark: Vidéos Youtube en Data Science : [Machine Learnia](https://www.youtube.com/c/MachineLearnia/featured), [Thibault Neveu](https://www.youtube.com/c/ThibaultNeveu/featured), [Python Programmer](https://www.youtube.com/c/FlickThrough/featured), [Joma Tech](https://www.youtube.com/c/JomaOppa/featured), [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ/featured), [Ken Jee](https://www.youtube.com/c/KenJee1/featured), [La statistique expliquée à mon chat](https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA/featured), [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/featured) ...
 -----
 
 * [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard)
 * [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) (Stanford)
-
 
 -----
 * :x: [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics) (MIT)
@@ -81,7 +81,6 @@
 * :x: [Concevez des architectures Big Data](https://openclassrooms.com/fr/courses/4467491-concevez-des-architectures-big-data) (OpenClassrooms)
 * :x: [Créez votre Data Lake](https://openclassrooms.com/fr/courses/4467481-creez-votre-data-lake) (OpenClassrooms)
 * :x: [Gérez des flux de données temps réel](https://openclassrooms.com/fr/courses/4451251-gerez-des-flux-de-donnees-temps-reel) (OpenClassrooms)
-* :x: [Maîtrisez les bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql) (OpenClassrooms)
 * :x: [Appliquez l’apprentissage statistique aux objets connectés](https://openclassrooms.com/fr/courses/5264666-appliquez-l-apprentissage-statistique-aux-objets-connectes) (OpenClassrooms)
 * :x: [Machine Learning Flashcards](https://www.brainscape.com/subjects/technology-engineering/computer-science/machine-learning/) (Brainscape)
 * :x: [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)  (Khan Academy)
