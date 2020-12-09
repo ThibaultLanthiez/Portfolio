@@ -68,12 +68,12 @@
 * :heavy_check_mark: [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability), [Feature Engineering](https://www.kaggle.com/learn/feature-engineering), [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing) (Kaggle)
 * :heavy_check_mark: [Time Series Analysis in Python](https://365datascience.teachable.com/courses/enrolled/670446) (365DataScience)
 * :heavy_check_mark: [Maîtrisez les bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql) (OpenClassrooms)
+* :heavy_check_mark: [Réalisez des calculs distribués sur des données massives](https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives) (OpenClassrooms)
 * :heavy_check_mark: Vidéos Youtube en Data Science : [Machine Learnia](https://www.youtube.com/c/MachineLearnia/featured), [Thibault Neveu](https://www.youtube.com/c/ThibaultNeveu/featured), [Python Programmer](https://www.youtube.com/c/FlickThrough/featured), [Joma Tech](https://www.youtube.com/c/JomaOppa/featured), [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ/featured), [Ken Jee](https://www.youtube.com/c/KenJee1/featured), [La statistique expliquée à mon chat](https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA/featured), [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/featured) ...
 -----
 
 * [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard)
 * [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) (Stanford)
-* [Réalisez des calculs distribués sur des données massives](https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives) (OpenClassrooms)
 
 -----
 * :x: [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics) (MIT)
