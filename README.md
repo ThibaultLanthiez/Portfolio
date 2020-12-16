@@ -50,8 +50,8 @@
 
 ## Livres :blue_book:
 
-* :heavy_check_mark: [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow](https://www.amazon.fr/Hands-Machine-Learning-Scikit-learn-Tensorflow/dp/1492032646/ref=pd_lpo_14_t_0/258-0304242-3340961?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=b7a34edd-de30-4d8f-8538-8877f20dce05&pd_rd_w=YJud1&pd_rd_wg=SescO&pf_rd_p=a9e8383d-b25d-45ec-acc2-a094dd781c31&pf_rd_r=A5E4EQYGHAPF83RPKMNT&psc=1&refRID=A5E4EQYGHAPF83RPKMNT)
-* :heavy_check_mark: [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow](https://www.amazon.fr/Hands-Machine-Learning-Scikit-learn-Tensorflow/dp/1492032646/ref=pd_lpo_14_t_0/258-0304242-3340961?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=b7a34edd-de30-4d8f-8538-8877f20dce05&pd_rd_w=YJud1&pd_rd_wg=SescO&pf_rd_p=a9e8383d-b25d-45ec-acc2-a094dd781c31&pf_rd_r=A5E4EQYGHAPF83RPKMNT&psc=1&refRID=A5E4EQYGHAPF83RPKMNT)
+* [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 -----
 * :x: [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 * :x: [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
@@ -59,20 +59,20 @@
 
 ## Formations en ligne :rocket:
 
-* :heavy_check_mark: [Introduction to Artificial Intelligence](https://www.elementsofai.fr/) (Université d'Helsinki)
-* :heavy_check_mark: [Initiez-vous au Machine Learning](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning) (OpenClassrooms)
-* :heavy_check_mark: [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
-* :heavy_check_mark: [The Analytics Edge](https://www.edx.org/course/the-analytics-edge) (MIT)
-* :heavy_check_mark: [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) (Stanford)
-* :heavy_check_mark: [Keras - Python Deep Learning Neural Network API](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) (DeepLizard)
-* :heavy_check_mark: [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) (DeepLizard)
-* :heavy_check_mark: [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability), [Feature Engineering](https://www.kaggle.com/learn/feature-engineering), [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing), [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis), [Computer Vision](https://www.kaggle.com/learn/computer-vision) (Kaggle)
-* :heavy_check_mark: [Time Series Analysis in Python](https://365datascience.teachable.com/courses/enrolled/670446) (365DataScience)
-* :heavy_check_mark: [Maîtrisez les bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql) (OpenClassrooms)
-* :heavy_check_mark: [Créez votre Data Lake](https://openclassrooms.com/fr/courses/4467481-creez-votre-data-lake) (OpenClassrooms)
-* :heavy_check_mark: [Réalisez des calculs distribués sur des données massives](https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives) (OpenClassrooms)
-* :heavy_check_mark: [LeetCode Database Problems](https://leetcode.com/problemset/database/)
-* :heavy_check_mark: Vidéos Youtube en Data Science : [Machine Learnia](https://www.youtube.com/c/MachineLearnia/featured), [Thibault Neveu](https://www.youtube.com/c/ThibaultNeveu/featured), [Python Programmer](https://www.youtube.com/c/FlickThrough/featured), [Joma Tech](https://www.youtube.com/c/JomaOppa/featured), [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ/featured), [Ken Jee](https://www.youtube.com/c/KenJee1/featured), [La statistique expliquée à mon chat](https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA/featured), [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/featured) ...
+* Introduction to Artificial Intelligence](https://www.elementsofai.fr/) (Université d'Helsinki)
+* [Initiez-vous au Machine Learning](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning) (OpenClassrooms)
+* [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+* [Keras - Python Deep Learning Neural Network API](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) (DeepLizard)
+* [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) (DeepLizard)
+* [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability), [Feature Engineering](https://www.kaggle.com/learn/feature-engineering), [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing), [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis), [Computer Vision](https://www.kaggle.com/learn/computer-vision) (Kaggle)
+* [The Analytics Edge](https://www.edx.org/course/the-analytics-edge) (MIT)
+* [Time Series Analysis in Python](https://365datascience.teachable.com/courses/enrolled/670446) (365DataScience)
+* [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) (Stanford)
+* [Maîtrisez les bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql) (OpenClassrooms)
+* [Créez votre Data Lake](https://openclassrooms.com/fr/courses/4467481-creez-votre-data-lake) (OpenClassrooms)
+* [Réalisez des calculs distribués sur des données massives](https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives) (OpenClassrooms)
+* [LeetCode Database Problems](https://leetcode.com/problemset/database/)
+* Vidéos Youtube en Data Science : [Machine Learnia](https://www.youtube.com/c/MachineLearnia/featured), [Thibault Neveu](https://www.youtube.com/c/ThibaultNeveu/featured), [Python Programmer](https://www.youtube.com/c/FlickThrough/featured), [Joma Tech](https://www.youtube.com/c/JomaOppa/featured), [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ/featured), [Ken Jee](https://www.youtube.com/c/KenJee1/featured), [La statistique expliquée à mon chat](https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA/featured), [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/featured) ...
 -----
 
 * [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard)
