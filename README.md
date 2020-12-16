@@ -83,6 +83,8 @@
 * :x: [Concevez des architectures Big Data](https://openclassrooms.com/fr/courses/4467491-concevez-des-architectures-big-data) (OpenClassrooms)
 * :x: [Gérez des flux de données temps réel](https://openclassrooms.com/fr/courses/4451251-gerez-des-flux-de-donnees-temps-reel) (OpenClassrooms)
 * :x: [Utilisez Git et GitHub pour vos projets de développement](https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement) (OpenClassrooms)
+* :x: [Learn the AWS Cloud Practitioner Essentials](https://trailhead.salesforce.com/en/content/learn/trails/learn-the-aws-cloud-practitioner-essentials)
+* :x: [AWS Cloud for Technical Professionals](https://trailhead.salesforce.com/en/content/learn/trails/aws-cloud-for-technical-professionals)
 * :x: [Machine Learning Flashcards](https://www.brainscape.com/subjects/technology-engineering/computer-science/machine-learning/) (Brainscape)
 * :x: [Data Science: Inference and Modeling](https://online-learning.harvard.edu/course/data-science-inference-and-modeling?delta=1) (Harvard)
 * :x: [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) (MIT)
