@@ -76,18 +76,16 @@
 -----
 
 * [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard)
+* [Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/) (MadeWithML)
 
 -----
-* :x: [Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/) (MadeWithML)
+* :x: [Machine Learning Flashcards](https://www.brainscape.com/subjects/technology-engineering/computer-science/machine-learning/) (Brainscape)
 * :x: [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics) (MIT)
 * :x: [Reinforcement Learning - Goal Oriented Intelligence](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv) (DeepLizard)
 * :x: [Concevez des architectures Big Data](https://openclassrooms.com/fr/courses/4467491-concevez-des-architectures-big-data) (OpenClassrooms)
 * :x: [Gérez des flux de données temps réel](https://openclassrooms.com/fr/courses/4451251-gerez-des-flux-de-donnees-temps-reel) (OpenClassrooms)
 * :x: [Utilisez Git et GitHub pour vos projets de développement](https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement) (OpenClassrooms)
 * :x: [Principles, Statistical and Computational Tools for Reproducible Data Science](https://online-learning.harvard.edu/course/principles-statistical-and-computational-tools-reproducible-data-science?delta=1) (Harvard)
-* :x: [Learn the AWS Cloud Practitioner Essentials](https://trailhead.salesforce.com/en/content/learn/trails/learn-the-aws-cloud-practitioner-essentials)
-* :x: [AWS Cloud for Technical Professionals](https://trailhead.salesforce.com/en/content/learn/trails/aws-cloud-for-technical-professionals)
-* :x: [Machine Learning Flashcards](https://www.brainscape.com/subjects/technology-engineering/computer-science/machine-learning/) (Brainscape)
 * :x: [Data Science: Inference and Modeling](https://online-learning.harvard.edu/course/data-science-inference-and-modeling?delta=1) (Harvard)
 * :x: [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) (MIT)
 * :x: [Machine Learning & Deep Learning Fundamentals](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) (DeepLizard)
