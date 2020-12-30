@@ -50,12 +50,14 @@
 
 ## Livres :blue_book:
 
+* [The Hundred-Page Machine Learning Book](https://www.amazon.fr/Hundred-Page-Machine-Learning-Book-English-ebook/dp/B07MGCNKXB/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WO6GK9C6JUJ0&dchild=1&keywords=100+pages+machine+learning&qid=1607118238&quartzVehicle=95-1229&replacementKeywords=pages+machine+learning&sprefix=100+pages+%2Caps%2C350&sr=8-1)
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow](https://www.amazon.fr/Hands-Machine-Learning-Scikit-learn-Tensorflow/dp/1492032646/ref=pd_lpo_14_t_0/258-0304242-3340961?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=b7a34edd-de30-4d8f-8538-8877f20dce05&pd_rd_w=YJud1&pd_rd_wg=SescO&pf_rd_p=a9e8383d-b25d-45ec-acc2-a094dd781c31&pf_rd_r=A5E4EQYGHAPF83RPKMNT&psc=1&refRID=A5E4EQYGHAPF83RPKMNT)
 * [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+
 -----
+
 * :x: [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 * :x: [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
-* :x: [The Hundred-Page Machine Learning Book](https://www.amazon.fr/Hundred-Page-Machine-Learning-Book-English-ebook/dp/B07MGCNKXB/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WO6GK9C6JUJ0&dchild=1&keywords=100+pages+machine+learning&qid=1607118238&quartzVehicle=95-1229&replacementKeywords=pages+machine+learning&sprefix=100+pages+%2Caps%2C350&sr=8-1)
 
 ## Formations en ligne :rocket:
 
@@ -66,6 +68,7 @@
 * [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) (DeepLizard)
 * [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard)
 * [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability), [Feature Engineering](https://www.kaggle.com/learn/feature-engineering), [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing), [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis), [Computer Vision](https://www.kaggle.com/learn/computer-vision) (Kaggle)
+* [Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/) (MadeWithML)
 * [The Analytics Edge](https://www.edx.org/course/the-analytics-edge) (MIT)
 * [Time Series Analysis in Python](https://365datascience.teachable.com/courses/enrolled/670446) (365DataScience)
 * [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) (Stanford)
@@ -74,9 +77,6 @@
 * [Réalisez des calculs distribués sur des données massives](https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives) (OpenClassrooms)
 * [LeetCode Database Problems](https://leetcode.com/problemset/database/)
 * Vidéos Youtube en Data Science : [Machine Learnia](https://www.youtube.com/c/MachineLearnia/featured), [Thibault Neveu](https://www.youtube.com/c/ThibaultNeveu/featured), [Python Programmer](https://www.youtube.com/c/FlickThrough/featured), [Joma Tech](https://www.youtube.com/c/JomaOppa/featured), [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ/featured), [Ken Jee](https://www.youtube.com/c/KenJee1/featured), [La statistique expliquée à mon chat](https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA/featured), [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/featured) ...
------
-
-* [Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/) (MadeWithML)
 
 -----
 * :x: [Machine Learning Flashcards](https://www.brainscape.com/subjects/technology-engineering/computer-science/machine-learning/) (Brainscape)
