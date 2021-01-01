@@ -64,7 +64,6 @@
 * [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) (DeepLizard)
 * [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard)
 * [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability), [Feature Engineering](https://www.kaggle.com/learn/feature-engineering), [Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing), [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis), [Computer Vision](https://www.kaggle.com/learn/computer-vision) (Kaggle)
-* [Machine Learning in production](https://madewithml.com/#applied-ml) (Made With ML)
 * [The Analytics Edge](https://www.edx.org/course/the-analytics-edge) (MIT)
 * [Time Series Analysis in Python](https://365datascience.teachable.com/courses/enrolled/670446) (365DataScience)
 * [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) (Stanford)
