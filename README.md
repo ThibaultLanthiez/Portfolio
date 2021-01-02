@@ -28,8 +28,6 @@
 * Projet 2 : [Projet base de données](https://github.com/ThibaultLanthiez/Projet-Universite-Caen)
 * Projet 3 : [Projet Génie Logiciel](https://github.com/ThibaultLanthiez/Projet-Universite-Caen)
 * Projet 4 : [Interfaces Utilisateur Graphiques](https://github.com/ThibaultLanthiez/Interfaces-Utilisateur-Graphiques)
-* Projet 5 : [TP Statistiques](https://github.com/ThibaultLanthiez/Projet-Universite-Caen)
-* Projet 6 : [Projet algo](https://github.com/ThibaultLanthiez/Projet-Universite-Caen)
 
 2. **DUT STID**
 * Projet 1 : [Projet tutoré pour l'observatoire UNICAEN](https://github.com/ThibaultLanthiez/Projet-observatoire-UNICAEN)
