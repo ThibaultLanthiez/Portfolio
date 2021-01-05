@@ -23,7 +23,7 @@
 
 1. **ENSIMAG**
 * Projet 1 : [Interfaces Utilisateur Graphiques](https://github.com/ThibaultLanthiez/Interfaces-Utilisateur-Graphiques)
-* Projet 2 : [Projet Génie Logiciel](https://github.com/ThibaultLanthiez/Projet-Universite-Caen)
+* Projet 2 : [Projet Génie Logiciel](https://github.com/ThibaultLanthiez/Projet-Genie-Logiciel)
 * Projet 3 : [Intelligence artificielle pour des robots pompiers en programmation orienté objet](https://github.com/ThibaultLanthiez/Projet-Universite-Caen)
 * Projet 4 : [Base de données SQL](https://github.com/ThibaultLanthiez/Base-de-donnees-SQL)
 
