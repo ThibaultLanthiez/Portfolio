@@ -6,7 +6,7 @@
 * Projet 2 : [Régression sur le prix de vente de biens immobiliers](https://github.com/ThibaultLanthiez/Regression-prix-vente-biens-immobiliers) [Régression]
 * Projet 3 : [Clustering de genres de musiques](https://github.com/ThibaultLanthiez/Clustering-genres-musiques) [Clustering]
 * Projet 4 : [Prédire le nombre de décès quotidiens dus au Covid-19](https://github.com/ThibaultLanthiez/Prediction-nombre-deces-quotidiens-Covid-19) [Série temporelle]
-* Projet 5 : [Web Scraping des capitales du monde](https://github.com/ThibaultLanthiez/Web-scaping) [Web Scraping]
+* Projet 5 : [Web scraping des capitales du monde](https://github.com/ThibaultLanthiez/Web-scaping) [Web Scraping]
 * Projet 6 : [Estimation de l'âge d'après une photo](https://github.com/ThibaultLanthiez/Estimation-age-photo) [Régression sur des images]
 * Projet 7 : [Analyse de sentiment exprimé par un tweet](https://github.com/ThibaultLanthiez/Analyse-sentiment-tweet) [NLP]
 * Projet 8 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire) [Détection d'anomalie]
