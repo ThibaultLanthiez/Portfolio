@@ -33,7 +33,7 @@
 * Projet 2 : [Analyse statistique sur une maladie](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 3 : [Série temporelle sur l'évolution du nombre de passagers d'Air France](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
 * Projet 4 : [Création d'un questionnaire web lié à une base de données SQL](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
-* Projet 5 : [Sondage auprès de lycéens et analyses des réponses](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 5 : [Sondage auprès de lycéens et analyses des réponses](https://github.com/ThibaultLanthiez/Sondage-des-lyceens)
 * Projet 6 : [Analyse de données Game of Thrones](https://github.com/ThibaultLanthiez/Game-of-Thrones)
 * Projet 7 : [Création d'un site de révision](https://github.com/ThibaultLanthiez/Site-revision)
 
