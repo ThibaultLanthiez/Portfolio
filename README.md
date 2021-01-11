@@ -31,7 +31,7 @@
 2. **DUT STID**
 * Projet 1 : [Projet tutoré pour l'observatoire UNICAEN](https://github.com/ThibaultLanthiez/Projet-observatoire-UNICAEN)
 * Projet 2 : [Analyse statistique sur une maladie](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
-* Projet 3 : [Série temporelle sur l'évolution du nombre de passagers d'Air France](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku)
+* Projet 3 : [Série temporelle sur l'évolution du nombre de passagers d'Air France](https://github.com/ThibaultLanthiez/Serie-temporelle-Air-France)
 * Projet 4 : [Création d'un questionnaire web lié à une base de données SQL](https://github.com/ThibaultLanthiez/questionnaire-relie-base-donnees)
 * Projet 5 : [Sondage auprès de lycéens et analyses des réponses](https://github.com/ThibaultLanthiez/Sondage-des-lyceens)
 * Projet 6 : [Analyse de données Game of Thrones](https://github.com/ThibaultLanthiez/Game-of-Thrones)
