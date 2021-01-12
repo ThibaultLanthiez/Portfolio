@@ -10,7 +10,7 @@
 * Projet 6 : [Estimation de l'âge d'après une photo](https://github.com/ThibaultLanthiez/Estimation-age-photo) [Régression sur des images]
 * Projet 7 : [Analyse de sentiment exprimé par un tweet](https://github.com/ThibaultLanthiez/Analyse-sentiment-tweet) [NLP]
 * Projet 8 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire) [Détection d'anomalie]
-* Projet 9 : [Machine learning pour résoudre des sudokus](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku) [Classification] 
+* Projet 9 : [Machine learning pour la résolution de sudokus](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku) [Classification] 
 * Projet 10 : [Classification d'IRM de cerveau](https://github.com/ThibaultLanthiez/Classification-IRM-cerveau) [Classification d'images] 
 * Projet 11 : [Détection du port du masque](https://github.com/ThibaultLanthiez/Detection-port-masque) [Détection d'objets] 
 
