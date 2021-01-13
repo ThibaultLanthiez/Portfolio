@@ -2,7 +2,7 @@
 
 ## Projets personnels :mag:
 
-* Projet 1 : [Prédiction de l'issue de matchs foot](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot) [Classification et régression]
+* Projet 1 : [Prédiction de l'issue de matchs foot](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot) [Classification]
 * Projet 2 : [Régression sur le prix de vente de biens immobiliers](https://github.com/ThibaultLanthiez/Regression-prix-vente-biens-immobiliers) [Régression]
 * Projet 3 : [Classification d'IRM de cerveau](https://github.com/ThibaultLanthiez/Classification-IRM-cerveau) [Classification d'images] 
 * Projet 4 : [Estimation de l'âge d'après une photo](https://github.com/ThibaultLanthiez/Estimation-age-photo) [Régression sur des images]
@@ -11,9 +11,8 @@
 * Projet 7 : [Prédire le nombre de décès quotidiens dus au Covid-19](https://github.com/ThibaultLanthiez/Prediction-nombre-deces-quotidiens-Covid-19) [Série temporelle]
 * Projet 8 : [Analyse de sentiment exprimé par un tweet](https://github.com/ThibaultLanthiez/Analyse-sentiment-tweet) [NLP]
 * Projet 9 : [Clustering de genres de musiques](https://github.com/ThibaultLanthiez/Clustering-genres-musiques) [Clustering]
-* Projet 10 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire) [Détection d'anomalie]
+* Projet 10 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire) [Détection d'anomalies]
 * Projet 11 : [Web scraping des capitales du monde](https://github.com/ThibaultLanthiez/Web-scaping) [Web Scraping]
-
 
 ## Stage - Crédit Agricole (service CRM) :computer:
 
@@ -27,7 +26,6 @@
 * Projet 2 : [Projet Génie Logiciel](https://github.com/ThibaultLanthiez/Projet-Genie-Logiciel)
 * Projet 3 : [Intelligence artificielle pour des robots pompiers en programmation orienté objet](https://github.com/ThibaultLanthiez/robots-pompiers-POO)
 * Projet 4 : [Base de données SQL](https://github.com/ThibaultLanthiez/Base-de-donnees-SQL)
-
 
 2. **DUT STID**
 * Projet 1 : [Projet tutoré pour l'observatoire UNICAEN](https://github.com/ThibaultLanthiez/Projet-observatoire-UNICAEN)
@@ -50,7 +48,6 @@
 * [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow](https://www.amazon.fr/Hands-Machine-Learning-Scikit-learn-Tensorflow/dp/1492032646/ref=pd_lpo_14_t_0/258-0304242-3340961?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=b7a34edd-de30-4d8f-8538-8877f20dce05&pd_rd_w=YJud1&pd_rd_wg=SescO&pf_rd_p=a9e8383d-b25d-45ec-acc2-a094dd781c31&pf_rd_r=A5E4EQYGHAPF83RPKMNT&psc=1&refRID=A5E4EQYGHAPF83RPKMNT)
 * [An Introduction to Statistical Learning with Applications in R](https://www.amazon.fr/Introduction-Statistical-Learning-Applications/dp/1461471370)
-
 
 ## Formations en ligne :rocket:
 
