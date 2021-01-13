@@ -12,7 +12,7 @@
 * Projet 8 : [Analyse de sentiment exprimé par un tweet](https://github.com/ThibaultLanthiez/Analyse-sentiment-tweet) [Analyse de sentiment]
 * Projet 9 : [Clustering de genres de musiques](https://github.com/ThibaultLanthiez/Clustering-genres-musiques) [Clustering]
 * Projet 10 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire) [Détection d'anomalies]
-* Projet 11 : [Web scraping des capitales du monde](https://github.com/ThibaultLanthiez/Web-scaping) [Web Scraping]
+* Projet 11 : [Web scraping des capitales du monde](https://github.com/ThibaultLanthiez/Web-scaping) [Web scraping]
 
 ## Stage - Crédit Agricole (service CRM) :computer:
 
