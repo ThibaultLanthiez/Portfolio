@@ -4,15 +4,16 @@
 
 * Projet 1 : [Prédiction de l'issue de matchs foot](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot) [Classification et régression]
 * Projet 2 : [Régression sur le prix de vente de biens immobiliers](https://github.com/ThibaultLanthiez/Regression-prix-vente-biens-immobiliers) [Régression]
-* Projet 3 : [Clustering de genres de musiques](https://github.com/ThibaultLanthiez/Clustering-genres-musiques) [Clustering]
-* Projet 4 : [Prédire le nombre de décès quotidiens dus au Covid-19](https://github.com/ThibaultLanthiez/Prediction-nombre-deces-quotidiens-Covid-19) [Série temporelle]
-* Projet 5 : [Web scraping des capitales du monde](https://github.com/ThibaultLanthiez/Web-scaping) [Web Scraping]
-* Projet 6 : [Estimation de l'âge d'après une photo](https://github.com/ThibaultLanthiez/Estimation-age-photo) [Régression sur des images]
-* Projet 7 : [Analyse de sentiment exprimé par un tweet](https://github.com/ThibaultLanthiez/Analyse-sentiment-tweet) [NLP]
-* Projet 8 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire) [Détection d'anomalie]
-* Projet 9 : [Machine learning pour la résolution de sudokus](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku) [Classification] 
-* Projet 10 : [Classification d'IRM de cerveau](https://github.com/ThibaultLanthiez/Classification-IRM-cerveau) [Classification d'images] 
-* Projet 11 : [Détection du port du masque](https://github.com/ThibaultLanthiez/Detection-port-masque) [Détection d'objets] 
+* Projet 3 : [Estimation de l'âge d'après une photo](https://github.com/ThibaultLanthiez/Estimation-age-photo) [Régression sur des images]
+* Projet 4 : [Classification d'IRM de cerveau](https://github.com/ThibaultLanthiez/Classification-IRM-cerveau) [Classification d'images] 
+* Projet 5 : [Détection du port du masque](https://github.com/ThibaultLanthiez/Detection-port-masque) [Détection d'objets] 
+* Projet 6 : [Machine learning pour la résolution de sudokus](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku) [Classification] 
+* Projet 7 : [Prédire le nombre de décès quotidiens dus au Covid-19](https://github.com/ThibaultLanthiez/Prediction-nombre-deces-quotidiens-Covid-19) [Série temporelle]
+* Projet 8 : [Analyse de sentiment exprimé par un tweet](https://github.com/ThibaultLanthiez/Analyse-sentiment-tweet) [NLP]
+* Projet 9 : [Clustering de genres de musiques](https://github.com/ThibaultLanthiez/Clustering-genres-musiques) [Clustering]
+* Projet 10 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire) [Détection d'anomalie]
+* Projet 11 : [Web scraping des capitales du monde](https://github.com/ThibaultLanthiez/Web-scaping) [Web Scraping]
+
 
 ## Stage - Crédit Agricole (service CRM) :computer:
 
