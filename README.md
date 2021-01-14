@@ -19,7 +19,7 @@
 * Mission 1 : [Extraction de données pour un tableau de bord](https://github.com/ThibaultLanthiez/Extraction-donnees-tableau-bord)
 * Mission 2 : [Prédiction de changement de carte de crédit](https://github.com/ThibaultLanthiez/Prediction-changement-carte-credit)
 
-## Projets académiques :school_satchel:
+## Projets académiques :mortar_board:
 
 1. **ENSIMAG**
 * Projet 1 : [Interfaces Utilisateur Graphiques](https://github.com/ThibaultLanthiez/Interfaces-Utilisateur-Graphiques)
@@ -37,7 +37,7 @@
 
 -----
 
-## Certifications :mortar_board:
+## Certifications :trophy:
 
 * Workera - Quiz d'évaluation de compétences en data science : [Data Analyst](https://app.workera.ai/public/candidate/certificate?code=XOFK4ULP), [Data Scientist](https://app.workera.ai/public/candidate/certificate?code=B6L1EUNU)
 * LinkedIn - Quiz d'évaluation de compétences de langages informatiques : [Python, R, SQL, Excel, Machine Learning](https://www.linkedin.com/in/thibault-lanthiez-3b300b175/)
