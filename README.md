@@ -22,10 +22,10 @@
 ## Projets académiques :mortar_board:
 
 1. **ENSIMAG**
-* Projet 1 : [Interfaces Utilisateur Graphiques](https://github.com/ThibaultLanthiez/Interfaces-Utilisateur-Graphiques)
-* Projet 2 : [Projet Génie Logiciel](https://github.com/ThibaultLanthiez/Projet-Genie-Logiciel)
-* Projet 3 : [Intelligence artificielle pour des robots pompiers en programmation orienté objet](https://github.com/ThibaultLanthiez/robots-pompiers-POO)
-* Projet 4 : [Base de données SQL](https://github.com/ThibaultLanthiez/Base-de-donnees-SQL)
+* Projet 1 : [Projet Génie Logiciel](https://github.com/ThibaultLanthiez/Projet-Genie-Logiciel)
+* Projet 2 : [Intelligence artificielle pour des robots pompiers en programmation orienté objet](https://github.com/ThibaultLanthiez/robots-pompiers-POO)
+* Projet 3 : [Base de données SQL](https://github.com/ThibaultLanthiez/Base-de-donnees-SQL)
+* Projet 4 : [Interfaces Utilisateur Graphiques](https://github.com/ThibaultLanthiez/Interfaces-Utilisateur-Graphiques)
 
 2. **DUT STID**
 * Projet 1 : [Projet tutoré pour l'observatoire UNICAEN](https://github.com/ThibaultLanthiez/Projet-observatoire-UNICAEN)
