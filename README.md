@@ -60,5 +60,3 @@
 * [The Analytics Edge](https://www.edx.org/course/the-analytics-edge) (MIT)
 * [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) (Stanford)
 * [Bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql), [Calculs distribués sur des données massives](https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives), [Créez votre Data Lake](https://openclassrooms.com/fr/courses/4467481-creez-votre-data-lake) (OpenClassrooms)
-* [Cassandra NoSQL](https://www.youtube.com/playlist?list=PLalrWAGybpB-L1PGA-NfFu2uiWHEsdscD)
-* [Kubernetes](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana)
