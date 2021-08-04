@@ -62,7 +62,7 @@
 * [Keras - Python Deep Learning Neural Network API](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) (DeepLizard)
 * [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) (DeepLizard)
 * [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard)
-* [Data Science: Inference and Modeling](https://online-learning.harvard.edu/course/data-science-inference-and-modeling?delta=1) (Harvard)
+* [Principles, Statistical and Computational Tools for Reproducible Data Science](https://www.edx.org/course/principles-statistical-and-computational-tools-for) (Harvard)
 * [Feature Engineering](https://www.kaggle.com/learn/feature-engineering), [Data Cleaning](https://www.kaggle.com/learn/data-cleaning), [ML Explainability](https://www.kaggle.com/learn/machine-learning-explainability), [NLP](https://www.kaggle.com/learn/natural-language-processing), [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis), [Computer Vision](https://www.kaggle.com/learn/computer-vision) (Kaggle)
 * [The Analytics Edge](https://www.edx.org/course/the-analytics-edge) (MIT)
 * [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) (Stanford)
