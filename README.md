@@ -17,7 +17,7 @@
 
 ## Stage 3 mois - SOYHUCE (pôle Data) :computer:
 
-* Mission : POC sur le MMM : optimisation de budget et d'allocation publicitaire 
+* Mission : [POC sur le MMM : optimisation de budget et d'allocation publicitaire](https://github.com/ThibaultLanthiez/stage-soyhuce)
 
 ## Stage 2 mois - Crédit Agricole (service CRM) :computer:
 
