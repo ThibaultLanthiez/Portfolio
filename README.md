@@ -18,11 +18,11 @@
 
 ## Stage :computer:
 
-**2021 : Stage 3 mois - SOYHUCE (pôle Data)**
+**Stage 3 mois - SOYHUCE (pôle Data)**
 
 * [POC sur le MMM : optimisation de budget et d'allocation publicitaire](https://github.com/ThibaultLanthiez/stage-soyhuce)
 
-**2019 : Stage 2 mois - Crédit Agricole (service CRM)**
+**Stage 2 mois - Crédit Agricole (service CRM)**
 
 * Mission 1 : [Extraction de données pour un tableau de bord](https://github.com/ThibaultLanthiez/Extraction-donnees-tableau-bord)
 * Mission 2 : [Prédiction de changement de carte de crédit](https://github.com/ThibaultLanthiez/Prediction-changement-carte-credit)
@@ -30,13 +30,13 @@
 
 ## Projets académiques :mortar_board:
 
-1. **ENSIMAG (2019-2022)**
+1. **ENSIMAG**
 * Projet 1 : [Projet Génie Logiciel](https://github.com/ThibaultLanthiez/Projet-Genie-Logiciel)
 * Projet 2 : [Intelligence artificielle pour des robots pompiers en programmation orienté objet](https://github.com/ThibaultLanthiez/robots-pompiers-POO)
 * Projet 3 : [Base de données SQL](https://github.com/ThibaultLanthiez/Base-de-donnees-SQL)
 * Projet 4 : [Interfaces Utilisateur Graphiques](https://github.com/ThibaultLanthiez/Interfaces-Utilisateur-Graphiques)
 
-2. **DUT STID (2017-2019)**
+2. **DUT STID**
 * Projet 1 : [Projet tutoré pour l'observatoire UNICAEN](https://github.com/ThibaultLanthiez/Projet-observatoire-UNICAEN)
 * Projet 2 : [Série temporelle sur l'évolution du nombre de passagers d'Air France](https://github.com/ThibaultLanthiez/Serie-temporelle-Air-France)
 * Projet 3 : [Création d'un questionnaire web lié à une base de données SQL](https://github.com/ThibaultLanthiez/questionnaire-relie-base-donnees)
