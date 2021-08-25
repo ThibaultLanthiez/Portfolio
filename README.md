@@ -2,18 +2,18 @@
 
 ## Projets personnels :mag:
 
-* Projet 1 : [Prédiction de l'issue de matchs foot](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot) [Classification]
-* Projet 2 : [Régression sur le prix de vente de biens immobiliers](https://github.com/ThibaultLanthiez/Regression-prix-vente-biens-immobiliers) [Régression]
-* Projet 3 : [Classification d'IRM de cerveau](https://github.com/ThibaultLanthiez/Classification-IRM-cerveau) [Classification d'images] 
-* Projet 4 : Identification de baleines [Classification d'images]
-* Projet 5 : [Estimation de l'âge d'après une photo](https://github.com/ThibaultLanthiez/Estimation-age-photo) [Régression sur des images]
-* Projet 6 : [Détection du port du masque](https://github.com/ThibaultLanthiez/Detection-port-masque) [Détection d'objets] 
-* Projet 7 : [Machine learning pour la résolution de sudokus](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku) [Classification] 
-* Projet 8 : [Prédire le nombre de décès quotidiens dus au Covid-19](https://github.com/ThibaultLanthiez/Prediction-nombre-deces-quotidiens-Covid-19) [Série temporelle]
-* Projet 9 : [Analyse de sentiment exprimé par un tweet](https://github.com/ThibaultLanthiez/Analyse-sentiment-tweet) [Analyse de sentiment]
-* Projet 10 : [Clustering de genres de musiques](https://github.com/ThibaultLanthiez/Clustering-genres-musiques) [Clustering]
-* Projet 11 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire) [Détection d'anomalies]
-* Projet 12 : [Web scraping des capitales du monde](https://github.com/ThibaultLanthiez/Web-scaping) [Web scraping]
+* Projet 1 : [Prédiction de l'issue de matchs foot](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot) `Classification`
+* Projet 2 : [Régression sur le prix de vente de biens immobiliers](https://github.com/ThibaultLanthiez/Regression-prix-vente-biens-immobiliers) `Régression`
+* Projet 3 : [Classification d'IRM de cerveau](https://github.com/ThibaultLanthiez/Classification-IRM-cerveau) `Classification d'images`
+* Projet 4 : Identification de baleines `Classification d'images`
+* Projet 5 : [Estimation de l'âge d'après une photo](https://github.com/ThibaultLanthiez/Estimation-age-photo) `Régression sur des images`
+* Projet 6 : [Détection du port du masque](https://github.com/ThibaultLanthiez/Detection-port-masque) `Détection d'objets`
+* Projet 7 : [Machine learning pour la résolution de sudokus](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku) `Classification` 
+* Projet 8 : [Prédire le nombre de décès quotidiens dus au Covid-19](https://github.com/ThibaultLanthiez/Prediction-nombre-deces-quotidiens-Covid-19) `Série temporelle`
+* Projet 9 : [Analyse de sentiment exprimé par un tweet](https://github.com/ThibaultLanthiez/Analyse-sentiment-tweet) `Analyse de sentiment`
+* Projet 10 : [Clustering de genres de musiques](https://github.com/ThibaultLanthiez/Clustering-genres-musiques) `Clustering`
+* Projet 11 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire) `Détection d'anomalies`
+* Projet 12 : [Web scraping des capitales du monde](https://github.com/ThibaultLanthiez/Web-scaping) `Web scraping`
 
 ## Stage 3 mois - SOYHUCE (pôle Data) :computer:
 
@@ -57,14 +57,14 @@
 
 ## Formations en ligne :rocket:
 
-* [Introduction to Artificial Intelligence](https://www.elementsofai.fr/) (Université d'Helsinki)
-* [Initiez-vous au Machine Learning](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning) (OpenClassrooms)
-* [Keras - Python Deep Learning Neural Network API](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) (DeepLizard)
-* [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) (DeepLizard)
-* [Feature Engineering](https://www.kaggle.com/learn/feature-engineering), [Data Cleaning](https://www.kaggle.com/learn/data-cleaning), [ML Explainability](https://www.kaggle.com/learn/machine-learning-explainability), [NLP](https://www.kaggle.com/learn/natural-language-processing), [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis), [Computer Vision](https://www.kaggle.com/learn/computer-vision) (Kaggle)
-* [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) (Harvard)
-* [Principles, Statistical and Computational Tools for Reproducible Data Science](https://www.edx.org/course/principles-statistical-and-computational-tools-for) (Harvard)
-* [The Analytics Edge](https://www.edx.org/course/the-analytics-edge) (MIT)
-* [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) (Stanford)
-* [Bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql), [Calculs distribués](https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives), [Data Lake](https://openclassrooms.com/fr/courses/4467481-creez-votre-data-lake) (OpenClassrooms)
-* [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana), [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) (TechWorld with Nana)
+* [Introduction to Artificial Intelligence](https://www.elementsofai.fr/) `Université d'Helsinki`
+* [Initiez-vous au Machine Learning](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning) `OpenClassrooms`
+* [Keras - Python Deep Learning Neural Network API](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) `DeepLizard`
+* [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) `DeepLizard`
+* [Feature Engineering](https://www.kaggle.com/learn/feature-engineering), [Data Cleaning](https://www.kaggle.com/learn/data-cleaning), [ML Explainability](https://www.kaggle.com/learn/machine-learning-explainability), [NLP](https://www.kaggle.com/learn/natural-language-processing), [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis), [Computer Vision](https://www.kaggle.com/learn/computer-vision) `Kaggle`
+* [The Future of ML is Tiny and Brights](https://online-learning.harvard.edu/course/future-ml-tiny-and-bright?delta=0) `Harvard`
+* [Principles, Statistical and Computational Tools for Reproducible Data Science](https://www.edx.org/course/principles-statistical-and-computational-tools-for) `Harvard`
+* [The Analytics Edge](https://www.edx.org/course/the-analytics-edge) `MIT`
+* [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) `Stanford`
+* [Bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql), [Calculs distribués](https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives), [Data Lake](https://openclassrooms.com/fr/courses/4467481-creez-votre-data-lake) `OpenClassrooms`
+* [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana), [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) `TechWorld with Nana`
