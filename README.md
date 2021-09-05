@@ -30,13 +30,16 @@
 
 ## Projets académiques :mortar_board:
 
-1. **ENSIMAG**
+1. **ULB**
+* Projet 1 :
+
+2. **ENSIMAG**
 * Projet 1 : [Projet Génie Logiciel](https://github.com/ThibaultLanthiez/Projet-Genie-Logiciel)
 * Projet 2 : [Intelligence artificielle pour des robots pompiers en programmation orienté objet](https://github.com/ThibaultLanthiez/robots-pompiers-POO)
 * Projet 3 : [Base de données SQL](https://github.com/ThibaultLanthiez/Base-de-donnees-SQL)
 * Projet 4 : [Interfaces Utilisateur Graphiques](https://github.com/ThibaultLanthiez/Interfaces-Utilisateur-Graphiques)
 
-2. **DUT STID**
+3. **DUT STID**
 * Projet 1 : [Projet tutoré pour l'observatoire UNICAEN](https://github.com/ThibaultLanthiez/Projet-observatoire-UNICAEN)
 * Projet 2 : [Série temporelle sur l'évolution du nombre de passagers d'Air France](https://github.com/ThibaultLanthiez/Serie-temporelle-Air-France)
 * Projet 3 : [Création d'un questionnaire web lié à une base de données SQL](https://github.com/ThibaultLanthiez/questionnaire-relie-base-donnees)
