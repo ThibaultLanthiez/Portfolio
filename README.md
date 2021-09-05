@@ -61,6 +61,7 @@
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow (2ème édition)](https://www.amazon.fr/Hands-Machine-Learning-Scikit-learn-Tensorflow/dp/1492032646/ref=pd_lpo_14_t_0/258-0304242-3340961?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=b7a34edd-de30-4d8f-8538-8877f20dce05&pd_rd_w=YJud1&pd_rd_wg=SescO&pf_rd_p=a9e8383d-b25d-45ec-acc2-a094dd781c31&pf_rd_r=A5E4EQYGHAPF83RPKMNT&psc=1&refRID=A5E4EQYGHAPF83RPKMNT)
 * [An Introduction to Statistical Learning with Applications in R](https://www.amazon.fr/Introduction-Statistical-Learning-Applications/dp/1461471370)
 * [Python Cookbook (3ème édition)](https://www.amazon.fr/Python-Cookbook-3e-David-Beazley/dp/1449340377/ref=asc_df_1449340377/?tag=googshopfr-21&linkCode=df0&hvadid=229238794482&hvpos=&hvnetw=g&hvrand=12845570276651941078&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9055470&hvtargid=pla-433802587563&psc=1)
+* [Deep Learning Cookbook](https://www.amazon.fr/Deep-Learning-Cookbook-Practical-Recipes/dp/149199584X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1630856303&sr=8-1)
 
 ## Formations en ligne :rocket:
 
