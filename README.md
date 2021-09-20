@@ -5,7 +5,7 @@
 * Projet 1 : [Prédiction de l'issue de matchs foot](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot) `Classification`
 * Projet 2 : [Régression sur le prix de vente de biens immobiliers](https://github.com/ThibaultLanthiez/Regression-prix-vente-biens-immobiliers) `Régression`
 * Projet 3 : [Classification d'IRM de cerveau](https://github.com/ThibaultLanthiez/Classification-IRM-cerveau) `Classification d'images`
-* Projet 4 : Identification de baleines `Classification d'images`
+* Projet 4 : [Identification de baleines](https://github.com/ThibaultLanthiez/identification-baleine) `Classification d'images`
 * Projet 5 : [Estimation de l'âge d'après une photo](https://github.com/ThibaultLanthiez/Estimation-age-photo) `Régression sur des images`
 * Projet 6 : [Détection du port du masque](https://github.com/ThibaultLanthiez/Detection-port-masque) `Détection d'objets`
 * Projet 7 : [Machine learning pour la résolution de sudokus](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku) `Classification` 
