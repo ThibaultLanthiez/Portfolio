@@ -72,5 +72,5 @@
 * [The Analytics Edge](https://www.edx.org/course/the-analytics-edge) `MIT`
 * [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) `Stanford`
 * [Bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql), [Calculs distribués](https://openclassrooms.com/fr/courses/4297166-realisez-des-calculs-distribues-sur-des-donnees-massives), [Data Lake](https://openclassrooms.com/fr/courses/4467481-creez-votre-data-lake) `OpenClassrooms`
-* [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana), [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) `TechWorld with Nana`
+* [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana), [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana), [Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4&t=10s&ab_channel=TechWorldwithNana) `TechWorld with Nana`
 * [Deploy 12 apps to AWS, Azure, & Google Cloud](https://www.youtube.com/watch?v=-ANCcFQBk6I&t=4679s&ab_channel=freeCodeCamp.org) `freeCodeCamp`
