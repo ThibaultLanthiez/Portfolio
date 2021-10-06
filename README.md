@@ -64,7 +64,7 @@
 
 * [Introduction to Artificial Intelligence](https://www.elementsofai.fr/) `Université d'Helsinki`
 * [Initiez-vous au Machine Learning](https://openclassrooms.com/fr/courses/4011851-initiez-vous-au-machine-learning) `OpenClassrooms`
-* [Initialisation au Machine Learning](https://www.youtube.com/c/MachineLearnia/videos), [Formation Machine Learning](https://www.youtube.com/c/MachineLearnia/videos), [Formation Deep Learning](https://www.youtube.com/c/MachineLearnia/videos) (Machine Learnia)
+* [Initialisation au Machine Learning](https://www.youtube.com/c/MachineLearnia/videos), [Formation Machine Learning](https://www.youtube.com/c/MachineLearnia/videos), [Formation Deep Learning](https://www.youtube.com/c/MachineLearnia/videos) 'Machine Learnia'
 * [Keras - Python Deep Learning Neural Network API](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) `DeepLizard`
 * [Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) `DeepLizard`
 * [Feature Engineering](https://www.kaggle.com/learn/feature-engineering), [Data Cleaning](https://www.kaggle.com/learn/data-cleaning), [ML Explainability](https://www.kaggle.com/learn/machine-learning-explainability), [NLP](https://www.kaggle.com/learn/natural-language-processing), [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis), [Computer Vision](https://www.kaggle.com/learn/computer-vision) `Kaggle`
