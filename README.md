@@ -30,13 +30,19 @@
 
 ## Projets académiques :mortar_board:
 
-1. **ENSIMAG**
+1. **ULB** (Université Libre de Bruxelles)
+* Projet 1 : Data mining (application de suivi d'itinéraire de bus)
+* Projet 2 : Simulation de modèles d'un papier de recherche
+* Projet 3 : Projet Python
+* Projet 4 : Analyses de données robustes
+
+2. **ENSIMAG** (École Nationale Supérieure d'Informatique et de Mathématiques Appliquées)
 * Projet 1 : [Projet Génie Logiciel](https://github.com/ThibaultLanthiez/Projet-Genie-Logiciel)
 * Projet 2 : [Intelligence artificielle pour des robots pompiers en programmation orienté objet](https://github.com/ThibaultLanthiez/robots-pompiers-POO)
 * Projet 3 : [Base de données SQL](https://github.com/ThibaultLanthiez/Base-de-donnees-SQL)
 * Projet 4 : [Interfaces Utilisateur Graphiques](https://github.com/ThibaultLanthiez/Interfaces-Utilisateur-Graphiques)
 
-2. **DUT STID**
+3. **DUT STID** (Statistiques et Informatique Décisionnelle)
 * Projet 1 : [Projet tutoré pour l'observatoire UNICAEN](https://github.com/ThibaultLanthiez/Projet-observatoire-UNICAEN)
 * Projet 2 : [Série temporelle sur l'évolution du nombre de passagers d'Air France](https://github.com/ThibaultLanthiez/Serie-temporelle-Air-France)
 * Projet 3 : [Création d'un questionnaire web relié à une base de données SQL](https://github.com/ThibaultLanthiez/questionnaire-relie-base-donnees)
@@ -59,6 +65,7 @@
 * [An Introduction to Statistical Learning with Applications in R](https://www.amazon.fr/Introduction-Statistical-Learning-Applications/dp/1461471370)
 * [Python Cookbook (3ème édition)](https://www.amazon.fr/Python-Cookbook-3e-David-Beazley/dp/1449340377/ref=asc_df_1449340377/?tag=googshopfr-21&linkCode=df0&hvadid=229238794482&hvpos=&hvnetw=g&hvrand=12845570276651941078&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9055470&hvtargid=pla-433802587563&psc=1)
 * [Deep Learning Cookbook](https://www.amazon.fr/Deep-Learning-Cookbook-Practical-Recipes/dp/149199584X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1630856303&sr=8-1)
+* [Practical Mlops: Operationalizing Machine Learning Models](https://www.amazon.fr/Practical-Mlops-Operationalizing-Machine-Learning/dp/1098103017/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2N9LCNNI1LAWG&dchild=1&keywords=practical+MLOps&qid=1635803000&sprefix=practical+mlops%2Caps%2C102&sr=8-1)
 
 ## Formations en ligne :rocket:
 
