@@ -32,7 +32,7 @@
 
 1. **ULB** (Université Libre de Bruxelles)
 * Projet 1 : Data mining (application de suivi d'itinéraire de bus)
-* Projet 2 : Simulation de modèles d'un papier de recherche
+* Projet 2 : Reproduire les simulation des modèles d'un article de recherche
 * Projet 3 : Projet Python
 * Projet 4 : Analyses de données robustes
 
