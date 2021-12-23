@@ -31,7 +31,7 @@
 ## Projets académiques :mortar_board:
 
 1. **ULB** (Université Libre de Bruxelles)
-* Projet 1 : Data mining (application de suivi d'itinéraire de bus)
+* Projet 1 : [Data mining (application de suivi d'itinéraire de bus)](https://github.com/ThibaultLanthiez/Data-mining)
 * Projet 2 : Reproduire les simulations des modèles d'un article de recherche
 * Projet 3 : Projet Python
 * Projet 4 : Analyses de données robustes
