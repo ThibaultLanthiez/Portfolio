@@ -34,7 +34,7 @@
 * Projet 1 : [Data mining (application de suivi d'itinéraire de bus)](https://github.com/ThibaultLanthiez/Data-mining)
 * Projet 2 : [Simulations de modèles d'un article de recherche](https://github.com/ThibaultLanthiez/Simulations-article-de-recherche)
 * Projet 3 : Projet Python
-* Projet 4 : Analyses de données robustes
+* Projet 4 : [Analyses statistiques sur les données d'une enquête en ligne](https://github.com/ThibaultLanthiez/Analyses-statistiques-donnees-enquete)
 
 2. **ENSIMAG** (École Nationale Supérieure d'Informatique et de Mathématiques Appliquées)
 * Projet 1 : [Projet Génie Logiciel](https://github.com/ThibaultLanthiez/Projet-Genie-Logiciel)
