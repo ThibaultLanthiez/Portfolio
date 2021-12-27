@@ -20,35 +20,35 @@
 
 **Stage 3 mois - SOYHUCE (pôle Data)**
 
-* Mission : [POC sur le MMM : optimisation de budget et allocation publicitaire](https://github.com/ThibaultLanthiez/stage-soyhuce)
+* Mission : [POC sur le MMM : optimisation de budget et allocation publicitaire](https://github.com/ThibaultLanthiez/stage-soyhuce) `Python, PyStan, Voilà`
 
 **Stage 2 mois - Crédit Agricole (service CRM)**
 
-* Mission 1 : [Extraction de données pour un tableau de bord](https://github.com/ThibaultLanthiez/Extraction-donnees-tableau-bord)
-* Mission 2 : [Prédiction de changement de carte de crédit](https://github.com/ThibaultLanthiez/Prediction-changement-carte-credit)
+* Mission 1 : [Extraction de données pour un tableau de bord](https://github.com/ThibaultLanthiez/Extraction-donnees-tableau-bord) `SAS, SQL`
+* Mission 2 : [Prédiction de changement de carte de crédit](https://github.com/ThibaultLanthiez/Prediction-changement-carte-credit) `SAS, SQL, R`
 
 
 ## Projets académiques :mortar_board:
 
 1. **ULB** (Université Libre de Bruxelles)
-* Projet 1 : [Data mining (application de suivi d'itinéraire de bus)](https://github.com/ThibaultLanthiez/Data-mining)
-* Projet 2 : [Simulations de modèles d'un article de recherche](https://github.com/ThibaultLanthiez/Simulations-article-de-recherche)
-* Projet 3 : Projet sur PySpark
-* Projet 4 : [Analyses statistiques sur les données d'une enquête en ligne](https://github.com/ThibaultLanthiez/Analyses-statistiques-donnees-enquete)
+* Projet 1 : [Data mining (application de suivi d'itinéraire de bus)](https://github.com/ThibaultLanthiez/Data-mining) `Python, PySpark, Streamlit`
+* Projet 2 : [Simulations de modèles d'un article de recherche](https://github.com/ThibaultLanthiez/Simulations-article-de-recherche) `Python`
+* Projet 3 : Projet sur PySpark `Python, PySpark`
+* Projet 4 : [Analyses statistiques sur les données d'une enquête en ligne](https://github.com/ThibaultLanthiez/Analyses-statistiques-donnees-enquete) `R`
 
 2. **ENSIMAG** (École Nationale Supérieure d'Informatique et de Mathématiques Appliquées)
-* Projet 1 : [Projet Génie Logiciel](https://github.com/ThibaultLanthiez/Projet-Genie-Logiciel)
-* Projet 2 : [Intelligence artificielle pour des robots pompiers en programmation orienté objet](https://github.com/ThibaultLanthiez/robots-pompiers-POO)
-* Projet 3 : [Base de données SQL](https://github.com/ThibaultLanthiez/Base-de-donnees-SQL)
-* Projet 4 : [Interfaces Utilisateur Graphiques](https://github.com/ThibaultLanthiez/Interfaces-Utilisateur-Graphiques)
+* Projet 1 : [Projet Génie Logiciel](https://github.com/ThibaultLanthiez/Projet-Genie-Logiciel) `Java, ANTLR, Assembleur`
+* Projet 2 : [Intelligence artificielle pour des robots pompiers en programmation orienté objet](https://github.com/ThibaultLanthiez/robots-pompiers-POO) `Java`
+* Projet 3 : [Base de données](https://github.com/ThibaultLanthiez/Base-de-donnees-SQL) `SQL, Java`
+* Projet 4 : [Interfaces Utilisateur Graphiques](https://github.com/ThibaultLanthiez/Interfaces-Utilisateur-Graphiques) `C`
 
 3. **DUT STID** (Statistiques et Informatique Décisionnelle)
-* Projet 1 : [Projet tutoré pour l'observatoire UNICAEN](https://github.com/ThibaultLanthiez/Projet-observatoire-UNICAEN)
-* Projet 2 : [Série temporelle sur l'évolution du nombre de passagers d'Air France](https://github.com/ThibaultLanthiez/Serie-temporelle-Air-France)
-* Projet 3 : [Création d'un questionnaire web relié à une base de données SQL](https://github.com/ThibaultLanthiez/questionnaire-relie-base-donnees)
-* Projet 4 : [Sondage auprès de lycéens et analyse des réponses](https://github.com/ThibaultLanthiez/Sondage-des-lyceens)
-* Projet 5 : [Analyse de données Game of Thrones](https://github.com/ThibaultLanthiez/Game-of-Thrones)
-* Projet 6 : [Création d'un site de révision](https://github.com/ThibaultLanthiez/Site-revision)
+* Projet 1 : [Projet tutoré pour l'observatoire UNICAEN](https://github.com/ThibaultLanthiez/Projet-observatoire-UNICAEN) `Python, SQL, JavaScript`
+* Projet 2 : [Série temporelle sur l'évolution du nombre de passagers d'Air France](https://github.com/ThibaultLanthiez/Serie-temporelle-Air-France) `R`
+* Projet 3 : [Création d'un questionnaire web relié à une base de données SQL](https://github.com/ThibaultLanthiez/questionnaire-relie-base-donnees) `HTML, PHP, SQL`
+* Projet 4 : [Sondage auprès de lycéens et analyse des réponses](https://github.com/ThibaultLanthiez/Sondage-des-lyceens) `SAS`
+* Projet 5 : [Analyse de données Game of Thrones](https://github.com/ThibaultLanthiez/Game-of-Thrones) `Python`
+* Projet 6 : [Création d'un site de révision](https://github.com/ThibaultLanthiez/Site-revision) `Wix.com`
 
 -----
 
