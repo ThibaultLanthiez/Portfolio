@@ -45,7 +45,7 @@
 3. **DUT STID** (Statistiques et Informatique Décisionnelle)
 * Projet 1 : [Projet tutoré pour l'observatoire UNICAEN](https://github.com/ThibaultLanthiez/Projet-observatoire-UNICAEN) `Python, SQL, JavaScript`
 * Projet 2 : [Série temporelle sur l'évolution du nombre de passagers d'Air France](https://github.com/ThibaultLanthiez/Serie-temporelle-Air-France) `R`
-* Projet 3 : [Création d'un questionnaire web relié à une base de données SQL](https://github.com/ThibaultLanthiez/questionnaire-relie-base-donnees) `HTML, PHP, SQL`
+* Projet 3 : [Création d'un questionnaire web relié à une base de données](https://github.com/ThibaultLanthiez/questionnaire-relie-base-donnees) `HTML, PHP, SQL`
 * Projet 4 : [Sondage auprès de lycéens et analyse des réponses](https://github.com/ThibaultLanthiez/Sondage-des-lyceens) `SAS`
 * Projet 5 : [Analyse de données Game of Thrones](https://github.com/ThibaultLanthiez/Game-of-Thrones) `Python`
 * Projet 6 : [Création d'un site de révision](https://github.com/ThibaultLanthiez/Site-revision) `Wix.com`
