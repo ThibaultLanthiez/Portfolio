@@ -33,7 +33,7 @@
 1. **ULB** (Université Libre de Bruxelles)
 * Projet 1 : [Data mining (application de suivi d'itinéraire de bus)](https://github.com/ThibaultLanthiez/Data-mining) `Python, PySpark, Streamlit`
 * Projet 2 : [Simulations de modèles d'un article de recherche](https://github.com/ThibaultLanthiez/Simulations-article-de-recherche) `Python`
-* Projet 3 : Projet sur PySpark `Python, PySpark`
+* Projet 3 : [Projet sur PySpark](https://github.com/ThibaultLanthiez/pyspark_project) `Python, PySpark`
 * Projet 4 : [Analyses statistiques sur les données d'une enquête en ligne](https://github.com/ThibaultLanthiez/Analyses-statistiques-donnees-enquete) `R`
 
 2. **ENSIMAG** (École Nationale Supérieure d'Informatique et de Mathématiques Appliquées)
