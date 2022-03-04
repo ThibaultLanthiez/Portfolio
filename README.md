@@ -18,6 +18,10 @@
 
 ## Stage :computer:
 
+**Stage 6 mois - CAPGEMINI (service Insight & Data)**
+
+* Mission : Démonstrateur d'algo d'IA
+
 **Stage 3 mois - SOYHUCE (pôle Data)**
 
 * Mission : [POC sur le MMM : optimisation de budget et allocation publicitaire](https://github.com/ThibaultLanthiez/stage-soyhuce) `Python, PyStan, Voilà`
