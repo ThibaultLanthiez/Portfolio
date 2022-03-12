@@ -70,6 +70,7 @@
 * [Python Cookbook (3ème édition)](https://www.amazon.fr/Python-Cookbook-3e-David-Beazley/dp/1449340377/ref=asc_df_1449340377/?tag=googshopfr-21&linkCode=df0&hvadid=229238794482&hvpos=&hvnetw=g&hvrand=12845570276651941078&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9055470&hvtargid=pla-433802587563&psc=1)
 * [Deep Learning Cookbook](https://www.amazon.fr/Deep-Learning-Cookbook-Practical-Recipes/dp/149199584X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1630856303&sr=8-1)
 * [Practical MLOps: Operationalizing Machine Learning Models](https://www.amazon.fr/Practical-Mlops-Operationalizing-Machine-Learning/dp/1098103017/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2N9LCNNI1LAWG&dchild=1&keywords=practical+MLOps&qid=1635803000&sprefix=practical+mlops%2Caps%2C102&sr=8-1)
+* [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.fr/dp/1119002257?geniuslink=true)
 
 ## Formations en ligne :rocket:
 
