@@ -20,7 +20,7 @@
 
 **Stage 6 mois - CAPGEMINI (service Insight & Data)**
 
-* Mission : Démonstrateur d'algo d'IA
+* Mission : [Démonstrateur d'algorithmes de Computer Vision](https://github.com/ThibaultLanthiez/pfe_capgemini)
 
 **Stage 3 mois - SOYHUCE (pôle Data)**
 
