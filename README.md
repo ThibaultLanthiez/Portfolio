@@ -18,7 +18,7 @@
 
 ## Stage :computer:
 
-**Stage 6 mois - CAPGEMINI (service Insight & Data)**
+**Stage 6 mois - CAPGEMINI (service Applied Innovation Exchange)**
 
 * Mission : [Démonstrateur d'algorithmes de Computer Vision](https://github.com/ThibaultLanthiez/pfe_capgemini) `Python, Keras, PyTorch, Raspberry Pi`
 
