@@ -58,6 +58,7 @@
 
 ## Certifications :trophy:
 
+* Microsoft Azure : [AZ-900: Principes de base Microsoft Azure](https://www.credly.com/badges/ce8d8b4b-7184-4e4c-80c0-e96a304cc1f4/public_url)
 * Workera - Quiz d'évaluation de compétences en data science : [Data Analyst](https://app.workera.ai/public/candidate/certificate?code=XOFK4ULP), [Data Scientist](https://app.workera.ai/public/candidate/certificate?code=B6L1EUNU)
 * LinkedIn - Quiz d'évaluation de compétences de langages informatiques : [Python, R, SQL, Excel, Machine Learning](https://www.linkedin.com/in/thibault-lanthiez-3b300b175/)
 
