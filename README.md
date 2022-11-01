@@ -15,6 +15,8 @@
 * Projet 11 : [Détection de fraudes de carte bancaire](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire) `Détection d'anomalies`
 * Projet 12 : [Web scraping des capitales du monde](https://github.com/ThibaultLanthiez/Web-scaping) `Web scraping`
 * Projet 13 : [Web scraping du programme TV et informations Allocine](https://github.com/ThibaultLanthiez/projet_prog_tv) `Web scraping`
+* Projet 14 : [Web scraping pour extraire un annuaire de contacts](https://github.com/ThibaultLanthiez/Contact_Inovalle) `Web scraping`
+
 
 ## Stage :computer:
 
