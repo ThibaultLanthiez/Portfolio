@@ -20,7 +20,7 @@
 
 **Stage 6 mois - CAPGEMINI (service Applied Innovation Exchange)**
 
-* Mission : [Démonstrateur d'algorithmes de Computer Vision](https://github.com/ThibaultLanthiez/pfe_capgemini) `Python, Keras, PyTorch, Raspberry Pi`
+* Mission : [Démonstrateur d'algorithmes de Computer Vision](https://github.com/ThibaultLanthiez/pfe_capgemini) `Python, Keras, PyTorch, Raspberry Pi, Docker`
 
 **Stage 3 mois - SOYHUCE (pôle Data)**
 
