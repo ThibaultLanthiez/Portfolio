@@ -76,6 +76,7 @@
 * [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.fr/dp/1119002257?geniuslink=true)
 * [Raspberry Pi Cookbook: Software and Hardware Problems and Solutions (3ème édition)](https://www.amazon.fr/Raspberry-Pi-Cookbook-Software-Solutions/dp/1492043222/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=21S9S8806ZO6T&keywords=raspberry+pi+cookbook&qid=1650711105&sprefix=raspeberry+pi+cookbo%2Caps%2C289&sr=8-1)
 * [Grokking - Deep Learning](https://www.amazon.fr/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709)
+* [Modernizing Enterprise Java](https://www.amazon.com/Modernizing-Enterprise-Java-Concise-Developers/dp/1098102142)
 
 ## Formations en ligne :rocket:
 
